@@ -8,7 +8,7 @@ https://github.com/lucasvilela91/Dark-Mode/assets/152106763/c5df5bf4-fbb9-478b-b
 
 * CSS
 
-* Javascript
+* JavaScript
 
 * Método Toggle
 
